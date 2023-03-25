@@ -1,0 +1,1 @@
+Trabajo práctico grupal que propone la realización de una interfaz web para una marca ficticia (decidimos nombrarla "Flex Monkey"), que debe proveer un producto/servicio que combine los conceptos de lettering y gastronomía.
